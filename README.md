@@ -1,5 +1,9 @@
 # travel-booking-app
-✈ 
+design link:
+https://www.figma.com/design/JxCxJPEqZiN9xoFzcNF3Hb/Soundarya--Community-?node-id=0-1&p=f&t=gDMYfXX0dDpPyZxG-0
+
+prototype link:
+https://www.figma.com/proto/JxCxJPEqZiN9xoFzcNF3Hb/Soundarya--Community-?node-id=0-1&t=gDMYfXX0dDpPyZxG-1
 
 ## ✨ Features 
 
